@@ -2,6 +2,20 @@
 
 **Runtime-uncensored Ternary Bonsai 2.5 27B — without modifying or re-quantizing the original weights by **[`OrcaRouter research team`](https://www.orcarouter.ai)**.**
 
+<table>
+<tr>
+<td>
+
+🔓 **[All hosted cyber and abliterated models as API](https://www.orcarouter.ai/models?tier=cyber)**
+
+Skip the download: OrcaRouter serves its cybersecurity and abliterated models behind one OpenAI-compatible API key.
+
+[![Browse cyber and abliterated models](https://img.shields.io/badge/Browse%20cyber%20%26%20abliterated%20models%20%E2%86%92-FF6A00?style=for-the-badge&labelColor=0B1F3A)](https://www.orcarouter.ai/models?tier=cyber)
+
+</td>
+</tr>
+</table>
+
 This repository applies refusal-direction ablation to Ternary Bonsai 2.5 27B entirely **at runtime**:
 
 * [`prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit`](https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit) — Apple Silicon / MLX
